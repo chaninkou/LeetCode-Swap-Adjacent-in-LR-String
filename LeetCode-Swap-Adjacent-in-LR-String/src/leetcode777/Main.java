@@ -1,4 +1,4 @@
-package swap;
+package leetcode777;
 
 public class Main {
 	public static void main(String[] args){
